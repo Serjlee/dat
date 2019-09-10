@@ -12,7 +12,7 @@ import:
   - v1
 - package: github.com/mgutz/str
 - package: github.com/pmylund/go-cache
-- package: github.com/satori/go.uuid
+- package: github.com/gofrs/uuid
 - package: gopkg.in/godo.v2
   subpackages:
   - util

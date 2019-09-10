@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
+	guid "github.com/gofrs/uuid"
 	"github.com/jmoiron/sqlx"
 	"github.com/lib/pq"
-	guid "github.com/satori/go.uuid"
 	"gopkg.in/mgutz/dat.v1"
 	"gopkg.in/mgutz/dat.v1/kvs"
 )

@@ -44,8 +44,8 @@ imports:
   version: d9b45f19996c645d38c9266d1f5cf1990e930119
 - name: github.com/pmylund/go-cache
   version: 1881a9bccb818787f68c52bfba648c6cf34c34fa
-- name: github.com/satori/go.uuid
-  version: f9ab0dce87d815821e221626b772e3475a0d2749
+- name: github.com/gofrs/uuid
+  version: 6b08a5c5172ba18946672b49749cde22873dd7c2
 - name: golang.org/x/crypto
   version: 5bcd134fee4dd1475da17714aac19c0aa0142e2f
   subpackages:
